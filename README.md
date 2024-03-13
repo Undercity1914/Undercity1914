@@ -20,7 +20,7 @@
 
 ### Apaixonado por games e astronomia
 
-##### Flappy Bird: 
+##### Games: 
 [![FlappyBird](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)](https://github.com/Undercity1914/FlappyBird/releases/tag/v1)
 
 
