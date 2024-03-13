@@ -21,7 +21,7 @@
 ### Apaixonado por games e astronomia
 
 ##### Games: 
-[![FlappyBird]](https://github.com/Undercity1914/FlappyBird/releases/tag/v1)
+[FlappyBird](https://github.com/Undercity1914/FlappyBird/releases/tag/v1)
 
 
 
