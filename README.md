@@ -1,6 +1,6 @@
 ### Olá! Meu nome é Marcos, estudante do curso de Ciencia da Computação no IFSEMG-Campus Rio Pomba.
 
-![Rorschach](Rorschach tomando café.jpeg)
+![Rorschach](img.jpeg)
 
 #### Links:
 
