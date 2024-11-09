@@ -20,6 +20,8 @@
 
 ### Apaixonado por games e astronomia
 
+[Meu Grupo de Estudo Astronomia](https://github.com/Undercity1914/Astronomy_Project)
+
 ##### Games: 
 [FlappyBird](https://github.com/Undercity1914/FlappyBird/releases/tag/v1)
 
